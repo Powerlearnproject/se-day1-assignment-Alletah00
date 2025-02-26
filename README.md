@@ -28,11 +28,11 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
  Waterfall methodology is a linear approach that falls into sequential phases like a waterfall e.g., requirements, design, implementation which are very difficult to revisit once a phase has been approved and a new phase has began. The methodology risks financial loss and wasted time due to setbacks. Waterfall works perfectly for projects that have a clear, concise plan and focus on finishing goals on a step-by-step bases e.g. a construction project like the building of a house or a bridge which would require minimal or no change at all also another project would be a payroll system for employees.
  
-  Agile methodology has an iterative approach that accumulates constant feedback which makes easier for adjustments during the development phase. There is room for flexibility and input from the client. Work and time aren’t wasted as the team working on the project can cross reference each other’s work and problems are discovered early on and can be dealt with accordingly. Agile works for projects that constantly change over time like and ecommerce app or a banking app.
+ Agile methodology has an iterative approach that accumulates constant feedback which makes easier for adjustments during the development phase. There is room for flexibility and input from the client. Work and time aren’t wasted as the team working on the project can cross reference each other’s work and problems are discovered early on and can be dealt with accordingly. Agile works for projects that constantly change over time like and ecommerce app or a banking app.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
  
- Software Developer is responsible for designing, programming, deploying and maintaining software applications.
+Software Developer is responsible for designing, programming, deploying and maintaining software applications.
 Quality Assurance Engineer is responsible for ensuring that the software meets the quality standards by identifying areas of improvement. Designing and executing test plans as well as detecting defects and logging them.
 Project Manager is responsible for the planning, execution and deliverance project by overseeing the overall software project.
 
@@ -49,6 +49,7 @@ Technical Debt – shortcuts during the development like quick bug fixes can lea
   Handling Tight Deadlines – tight deadlines can lead to stress and pressure which can result in rushed development, compromised quality and affect team morale. To avoid being compromised teams should focus on time management and prioritizing manageable tasks based on value.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit Testing is the testing of an isolated code which is individually tested to ensure that it works as intended.
 Integration Testing focuses on testing the different components.
 System Testing focuses on testing the system completely involving an end-to-end test to check the overall behaviour of the system.
